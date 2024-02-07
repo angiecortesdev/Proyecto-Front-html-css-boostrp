@@ -1,0 +1,25 @@
+
+
+.images{
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-bottom: 30px;
+}
+
+.card-title{
+    font-size: 26px;
+    font-family: var(--fuente-principal);
+    font-weight: 900;
+    margin-left: 12px;
+
+}
+
+.text{
+    font-family: var(--fuente-principal);
+    margin-left: 12px;
+    margin-bottom: 30px;
+}
+
+
+/* var(--color-subtitle) */
